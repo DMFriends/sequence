@@ -1,0 +1,35 @@
+OBJECTIVE:
+The objective of the game is to get a "sequence" of 4 pegs either
+vertically, horizontally, or diagonally. The first player to get 2
+"sequences" wins the game! It is possible to play more, if you are interested.
+
+PREPARATION:
+Jokers must be discarded from the deck. The oldest player should deal out 7 cards
+to themself and their opponent. Or decide on your own who deals the cards.
+The youngest player should go first, or you can flip a coin to decide who goes first.
+
+Decide what color they want to be -- either red or yellow. You may use other colors, if you'd like.
+
+RULES:
+1. Each player in turn places any one of the cards they are holding face up on a discard pile visible
+to their opponent. The player places a peg in the corresponding card printed on the playing surface.
+
+2. There are 4 Jacks in the card deck. If you get any them in your hand, you would have a wild card,
+which means you can use it to move to any open square on the board. That completes your turn. When you
+make a move with a Jack, the space that you move on is no longer a valid card and is considered a Dead
+Card (more on that in #3). You cannot remove a peg that is already part of a completed Sequence. Once a
+Sequence is achieved by a player, it cannot be broken. You may play a Jack whenever they work best for
+your strategy during your turn.
+
+3. If you hold a card in your hand which does not have an open space on the playing surface because the
+space representing that card is covered by previous use of a wild card, you are holding a Dead Card and
+it will automatially be removed from your hand or from the list of available cards (wherever it is) as the game goes on. You will automatically receive a new card after a Dead Card is removed. You can still make your normal move while all of this is happening.
+
+4. Once you have taken your turn and placed your peg on the playing surface, you may draw a replacement
+card from the deck. If you fail to draw your replacement card before the next player makes a move AND
+draws their replacement card, you lose the right to draw a replacement card and you must finish the game
+with less cards than the other player.
+
+**Note: When entering your moves, make sure you use abbreviations for cards.
+Example:
+KD (means King of Diamonds)
