@@ -35,7 +35,7 @@ Follow the prompts in the terminal. Player moves are recorded in `Python/moves.t
 
 ### Windows
 
-Download and run the `.msi` installer from the [latest release](https://github.com/DMFriends/wordle/releases/latest).
+Download and run the `.msi` installer from the [latest release](https://github.com/DMFriends/sequence/releases/latest).
 
 When you run the latest `.msi`, it uninstalls previous versions of the app from your device.
 
@@ -47,4 +47,4 @@ published. The release workflow produces:
 - Linux: `.deb`
 - macOS: `.dmg`
 
-You can download those packages from the [latest release](https://github.com/DMFriends/wordle/releases/latest). You may need to manually uninstall previous versions.
+You can download those packages from the [latest release](https://github.com/DMFriends/sequence/releases/latest). You may need to manually uninstall previous versions.
