@@ -9,12 +9,14 @@ import javafx.scene.image.Image;
 
 public class Main extends Application
 {
+	public static final String APP_VERSION = "v2.0";
+	
 	@Override
 	public void start(Stage primaryStage)
 	{
 		try
 		{
-			primaryStage.setTitle("Sequence");
+			primaryStage.setTitle("Sequence " + APP_VERSION);
 	        
 	        primaryStage.getIcons().add(
 			    new Image(
